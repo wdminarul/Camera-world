@@ -1,0 +1,25 @@
+.logo{
+    width:40px;
+    height: 40px;
+}
+.menu{
+    font-weight: bold;
+    font-family: Arial;
+}
+.menu:hover{
+    color: white;
+}
+.login{
+    background-color: #0a0c13;
+    border-radius: 5px;
+
+}
+/* .logout{
+    background-color: red;
+    color: #fff;
+    border-radius: 5px;
+
+} */
+.brandName{
+    color: #fff;
+}

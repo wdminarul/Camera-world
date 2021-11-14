@@ -1,0 +1,16 @@
+.google-logo{
+    width:50px;
+    border-radius: 10px;
+    border:none;
+}
+.main-form{
+    margin:0 auto;
+    text-align: center;
+    border: 2px solid #171C2A;
+    width:300px;
+    border-radius: 10px;
+}
+.bg-main{
+    background-image: url('../../../Images/t1.png') no-repeat;
+    background-size: cover;
+}

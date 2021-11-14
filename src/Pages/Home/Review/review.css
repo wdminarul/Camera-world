@@ -1,0 +1,15 @@
+.star{
+    width:200px;
+    height: 80px;
+}
+.main{
+    margin:0 auto;
+}
+.card-review{
+    overflow: hidden;
+    z-index: 999;
+}
+.star-img{
+    width: 50%;
+    height: 40px;
+}
